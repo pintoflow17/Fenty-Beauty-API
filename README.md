@@ -1,4 +1,4 @@
-# Fenty Beauty API Documentation
+# Fenty Beauty UNOFFICIAL API Documentation
 
 The Fenty Beauty API provides access to product information, collections, and search functionality for Fenty Beauty's catalog. This API allows you to retrieve detailed product information, search products, and browse collections.
 
